@@ -3,9 +3,9 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="CMakePresetLoader"><![CDATA[{
-  "useNewFormat": true
-}]]></component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
   <component name="CMakeProjectFlavorService">
     <option name="flavorId" value="CMakePlainProjectFlavor" />
   </component>
@@ -21,260 +21,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b548d1-95c4-4d5d-b751-978dc12a4a45" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../.vscode/settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../basic knowledge/linked.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../basic knowledge/linked.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../book/book/bool.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../book/book/hard_change_kind.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../book/book/practice-question/7_1.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../book/book/practice-question/7_2.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../book/book/practice-question/T4.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../book/book/practice-question/check.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../book/book/practice-question/check.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../check.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hello_world.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_1/check.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_1/hw_24_1_a.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_1/hw_24_1_a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_1/hw_24_1_b.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_1/hw_24_1_c.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_1/hw_24_1_d.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_1/hw_24_1_e.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_1/hw_24_1_f.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_1/hw_24_1_g.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_10/buddy_linked.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_10/cycle-detect.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_10/keyboard.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_10/keyboard1.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_10/keyboard2.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_10/play.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_2/a.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_2/b.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_2/c.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_2/check.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_2/check.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_2/check1.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_2/check1.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_2/d.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_2/e.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_2/f.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_2/tasks.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_3/a.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_3/b.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_3/b.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_3/c.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_3/c.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_3/c1.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_3/c1.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_3/check.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_3/check.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_3/d.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_3/d.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_3/e.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_3/f.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_3/tempCodeRunnerFile.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_3/tempCodeRunnerFile.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_4/a.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_4/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_4/b.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_4/b.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_4/c.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_4/c.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_4/check.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_4/check.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_4/d.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_4/d.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_4/e.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_4/e.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_4/f.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_4/f.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_4/g.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_4/g.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_4/h.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_4/h.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_4/tempCodeRunnerFile.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_5/a.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_5/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_5/absolute_prime.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_5/b.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_5/c.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_5/check.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_5/check.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_5/converter_2.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_5/d.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_5/e.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_5/f.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_5/next_permutation.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_5/pair.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_5/radix.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_6/brackets.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_6/buddy.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_6/buddy_1.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_6/counting.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_6/mine_2_1.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_6/mines_2.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_6/tempCodeRunnerFile.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_6/whac_a_mole.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_6/wine.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_7/BigTitle.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_7/interpreter.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_7/pife.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_7/substr.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_8/parse.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_8/strs_cat.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_8/strs_cat_1.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_8/strs_interleaf.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_8/tokenizer.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_9/bsearch.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_9/fifa.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_9/polynlist.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_9/split_sort.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hw_24_9/tempCodeRunnerFile.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_1/nhw_24_1_a.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_1/nhw_24_1_b.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_1/nhw_24_1_c.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_1/nhw_24_1_d.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_1/nhw_24_1_e.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_2/a.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_2/b.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_2/c.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_2/check.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_2/d.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_2/e.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_2/e.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_2/f.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_2/g.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_2/h.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_2/i.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_2/i.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_3/a.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_3/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_3/b.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_3/b.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_3/c.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_3/c.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_3/calculator.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_3/d.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_3/decimal.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_3/e.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_3/palindrome_2.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_3/tempCodeRunnerFile.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_4/life.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_6/cuboid.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_6/queue.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_6/stack.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../nhw_24_6/tempCodeRunnerFile.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ntest_23_1/a.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ntest_23_1/b.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ntest_23_1/c.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ntest_23_2/coded_lock.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ntest_23_2/fake_news.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ntest_23_2/wanderbell.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pre_exam_21/bsearch.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pre_exam_21/gobang.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pre_exam_21/lineup.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pre_exam_21/sorted.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pre_exam_22/bubble_sort.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pre_exam_22/check.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pre_exam_22/checker.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pre_exam_22/checker_a.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pre_exam_22/unrolled_linked_list.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pre_exam_22/whac-a-mole6.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pre_exam_22/whac_a_mole.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pre_test_24_10/3_a.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pre_test_24_10/3_b.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pre_test_24_10/3_c.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pre_test_24_10/3_d.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pre_test_24_10/3_e.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pre_test_24_10/3_f.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pre_test_24_10/4_c.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pre_test_24_10/4_e.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pre_test_24_10/4_f.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pre_test_24_10/4_g.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pre_test_24_10/4_h.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/.idea/editor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/.idea/project.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/README1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/.cmake/api/v1/reply/cache-v2-093b83635b7ee3844b84.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-b2f3bc775d0fca1c50af.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-22b543ad505832abd776.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/.cmake/api/v1/reply/index-2024-12-25T12-20-27-0713.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/.cmake/api/v1/reply/target-git_commit-Debug-56b4a8fc707af63d942e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/.cmake/api/v1/reply/target-ramfs-shell-Debug-d07656e7da113b3386ff.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-ff5e173155e8ccbadabf.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/.ninja_deps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/.ninja_log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/CMakeFiles/3.29.6/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/CMakeFiles/3.29.6/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/CMakeFiles/3.29.6/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/CMakeFiles/3.29.6/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/CMakeFiles/3.29.6/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/CMakeFiles/3.29.6/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/CMakeFiles/ramfs-shell.dir/main.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/build.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/compile.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/ramfs.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/ramfs.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/shell.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project/shell.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project_majsa/majsa-main/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project_majsa/majsa-main/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project_majsa/majsa-main/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project_majsa/majsa-main/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project_majsa/majsa-main/compile.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project_majsa/majsa-main/compile.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project_majsa/majsa-main/public_answer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project_majsa/majsa-main/src/AgariChecker.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project_majsa/majsa-main/src/AgariChecker.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project_majsa/majsa-main/src/Calculator.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project_majsa/majsa-main/src/Calculator.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project_majsa/majsa-main/src/YakuChecker.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project_majsa/majsa-main/src/YakuChecker.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project_majsa/majsa-main/src/current_tile.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project_majsa/majsa-main/src/current_tile.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project_majsa/majsa-main/src/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project_majsa/majsa-main/src/main.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project_majsa/majsa-main/src/majsa.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project_majsa/majsa-main/src/majsa.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project_majsa/majsa-main/src/rule.test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project_ramfshell" beforeDir="false" afterPath="$PROJECT_DIR$/../../project_ramfshell" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project_ramfshell.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../temp1.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../temp2.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../tempCodeRunnerFile.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test_24_10/a.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test_24_10/b.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test_24_10/c.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test_24_10/m_a.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test_24_10/m_b.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test_24_12/cat.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test_24_12/coin.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test_24_12/strlang.c" beforeDir="false" />
-    </list>
+    <list default="true" id="32b548d1-95c4-4d5d-b751-978dc12a4a45" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -296,9 +43,9 @@
     <option name="minorVersion" value="2.1" />
     <option name="productBranch" value="Classic" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2rzCw1yGS5sfQAMcmw2dV06ec2f" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -314,7 +61,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/yh/university/class/C/code/test/text_25_1",
+    "last_opened_file_path": "D:/yh/university/class/cpp/homework/hw_0",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -323,13 +70,6 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -339,6 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1737552751920</updated>
       <workItem from="1737552752971" duration="4103000" />
+      <workItem from="1741103666655" duration="115000" />
     </task>
     <servers />
   </component>
