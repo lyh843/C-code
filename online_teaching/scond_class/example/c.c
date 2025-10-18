@@ -11,4 +11,10 @@ int main(){
     
     scanf("/ %d", &b);
     printf("%d / %d\n", a, b);
+
+    // int i, j;
+    // scanf("%d%d", &i, &j);
+    // printf("%d %d\n", i, j);
+    // scanf("%d %d", &i, &j);
+    // printf("%d %d\n", i, j);
 }
